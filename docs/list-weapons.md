@@ -43,6 +43,7 @@
 	* [Omega](#omega)
 	* [Limited](#limited)
 	* [Grande](#grande)
+	* [Alterna](#alterna)
 
 ### Notes
 * <img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> indicates effects unlocked at skill level 15, i.e. consume 5 legend coins.
@@ -561,6 +562,18 @@ Weapon | Auto | Special
 <img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30"><br>Book | 4.5s / BP+5<br>Row PD/MD +15% 40s | BP17 / 180s / 3.0s / 2 Row Heal 370p<br>Proud 2
 <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30"><br>Dagger | 4.5s / BP+3<br>PA/Aim +10% 40s | BP17 / 165s / 3x173p<br>Self Shadow 1 60s against weakness element
 <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30"><br>Bow | 4.5s / BP+4<br>PA/Spr +15% 40s | BP17 / 160s / AoE 350p<br>Slow 2 60s against weakness element
+
+## Alterna
+![Alterna]()
+Awakening Effect: Recover 30% of consumed BP
+
+Weapon | Auto | Special
+:-:|---|---
+<img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30"><br>Sword | 4.5s / BP+4 / 175p<br>30% to +50p with PD buffed | BP14 / 170s / 465p<br>Self Regen 2 120s
+<img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30"><br>Rod | 4.5s / BP+5 / 155p<br>50% to recover 2 BP  | BP17 / 150s / 2.0s / 575p<br>Self Limit Break 2 60s
+<img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30"><br>Book | 5.0s / BP+5 / 35p<br>Row 30% to cleanse 1 debuff | BP16 / 170s / 3.0s / 2 Row Heal 370p<br>Haste 1
+<img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30"><br>Dagger | 4.5s / BP+3 / 135p<br>30% to heal 10% of damage dealt | BP15 / 150s / 3x173p<br>Self Quick 1 60s
+<img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30"><br>Bow | 4.5s / BP+4 / 150p<br>25% to dispel 1 debuff | BP16 / 150s / 400p<br>Weakness 2 30s against weakness element
 
 ### Disclaimers
 * Icons from limited weapons are contributed by friends and guild members.
