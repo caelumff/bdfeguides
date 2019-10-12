@@ -525,7 +525,7 @@ EQ | Name | Slot | Auto | Special
 7. For those effective against weakness elements, they mean fire weapons against wind enemies and so on.
 
 ## Omega
-![Omega](https://caelum.s-ul.eu/pPMU6IyL.png)
+![Omega](../lists/ex_omega.jpg)
 Awakening Effect: BP Cost -2
 
 Weapon | Auto | Special
@@ -540,7 +540,7 @@ Weapon | Auto | Special
 <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30"><br>Bow | 4.5s / BP+4 / 140p<br>Against weakness element, <br>50% to poison 60s | BP14 / 160s / 520p<br>Poison 120s against weakness element
 
 ## Limited
-![Limited](https://caelum.s-ul.eu/eoRcYwwr.png)
+![Limited](../lists/ex_limited.jpg)
 Awakening Effect: Special reload -30s
 
 Weapon | Auto | Special
@@ -552,7 +552,7 @@ Weapon | Auto | Special
 <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30"><br>Bow | 5.0s / BP+5 / 160p | BP17 / 160s / 520p<br>Extend debuffs +30s against weakness element
 
 ## Grande
-![Grande](https://caelum.s-ul.eu/94gU3mJv.png)
+![Grande](../lists/ex_grande.jpg)
 Awakening Effect: Equipment stats +20%
 
 Weapon | Auto | Special
