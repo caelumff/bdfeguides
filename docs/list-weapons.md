@@ -565,7 +565,7 @@ Weapon | Auto | Special
 <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30"><br>Bow | 4.5s / BP+4<br>PA/Spr +15% 40s | BP17 / 160s / AoE 350p<br>Slow 2 60s against weakness element
 
 ## Alterna
-![Alterna]()
+![Alterna](../lists/ex_alterna.jpg)
 Awakening Effect: Recover 30% of consumed BP
 
 Weapon | Auto | Special
@@ -577,7 +577,7 @@ Weapon | Auto | Special
 <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30"><br>Bow | 4.5s / BP+4 / 150p<br>25% to dispel 1 debuff | BP16 / 150s / 400p<br>Weakness 2 30s against weakness element
 
 ## Glory
-![Glory]()
+![Glory](../lists/ex_glory.jpg)
 #### Awakening Effects
 * Sword &amp; Book: +100p to heal specials
 * Rod: Damage cap +10,000
