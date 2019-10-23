@@ -578,7 +578,7 @@ Weapon | Auto | Special
 
 ## Glory
 ![Glory]()
-### Awakening Effects
+#### Awakening Effects
 * Sword &amp; Book: +100p to heal specials
 * Rod: Damage cap +10,000
 * Dagger: Self buff extension +15s
@@ -588,9 +588,9 @@ Weapon | Auto | Special
 :-:|---|---
 <img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30"><br>Sword | 4.5s / BP+4 / 170p<br>Heal 100% of damage dealt | BP14 / 170s / 300p heal<br>Self Dueling 2 90s
 <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30"><br>Rod | 4.0s / BP+6 / 100p<br>--  | BP17 / 150s / 2.0s / 625p<br>Self Aspir 2 60s
-<img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30"><br>Book | 5.0s / BP+5<br>2 Row PA/MA/PD/MD/SP +10% 10s | BP16 / 170s / 3.0s / 2 Row Heal 240p<br>10% Revive
+<img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30"><br>Book | 5.0s / BP+5<br>2 Row PA/MA/PD/MD/Spr +10% 10s | BP16 / 170s / 3.0s / 2 Row Heal 240p<br>10% Revive
 <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30"><br>Dagger | 4.0s / BP+3 / 3x50p<br>Against weakness element,<br>cut next auto reload by 0.5s | BP15 / 150s<br>Self Dodge 2 60s, Self PA +20% 60s
-<img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30"><br>Bow | 4.5s / BP+4 / 150p<br>25% to dispel 1 debuff | BP16 / 150s / 400p<br>Weakness 2 30s against weakness element
+<img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30"><br>Bow | 4.5s / BP+4 / 130p<br>Against weakness element,<br>poison 1 ~ 3x 15s | BP16 / 150s / 300p<br>AoE dispel
 
 ### Disclaimers
 * Icons from limited weapons are contributed by friends and guild members.
