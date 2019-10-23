@@ -40,10 +40,11 @@
 
 * [Collab Weapons Name Conversion](#collab-weapons-name-conversion)
 * [EX Weapons](#ex-weapons)
-	* [Omega](#omega)
-	* [Limited](#limited)
-	* [Grande](#grande)
-	* [Alterna](#alterna)
+	1. [Omega](#omega)
+	2. [Limited](#limited)
+	3. [Grande](#grande)
+	4. [Alterna](#alterna)
+	5. [Glory](#glory)
 
 ### Notes
 * <img src="https://caelum.s-ul.eu/1IPYTuvl.JPG" width="25" alt="Legend Coin"> indicates effects unlocked at skill level 15, i.e. consume 5 legend coins.
@@ -573,6 +574,22 @@ Weapon | Auto | Special
 <img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30"><br>Rod | 4.5s / BP+5 / 155p<br>50% to recover 2 BP  | BP17 / 150s / 2.0s / 575p<br>Self Limit Break 2 60s
 <img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30"><br>Book | 5.0s / BP+5 / 35p<br>Row 30% to cleanse 1 debuff | BP16 / 170s / 3.0s / 2 Row Heal 370p<br>Haste 1
 <img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30"><br>Dagger | 4.5s / BP+3 / 135p<br>30% to heal 10% of damage dealt | BP15 / 150s / 3x173p<br>Self Quick 1 60s
+<img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30"><br>Bow | 4.5s / BP+4 / 150p<br>25% to dispel 1 debuff | BP16 / 150s / 400p<br>Weakness 2 30s against weakness element
+
+## Glory
+![Glory]()
+### Awakening Effects
+* Sword &amp; Book: +100p to heal specials
+* Rod: Damage cap +10,000
+* Dagger: Self buff extension +15s
+* Bow: +200p to attack specials
+
+Weapon | Auto | Special
+:-:|---|---
+<img src="https://caelum.s-ul.eu/4mCTfFw6.gif" width="30"><br>Sword | 4.5s / BP+4 / 170p<br>Heal 100% of damage dealt | BP14 / 170s / 300p heal<br>Self Dueling 2 90s
+<img src="https://caelum.s-ul.eu/9Cfbpmce.gif" width="30"><br>Rod | 4.0s / BP+6 / 100p<br>--  | BP17 / 150s / 2.0s / 625p<br>Self Aspir 2 60s
+<img src="https://caelum.s-ul.eu/DkAtu3w5.gif" width="30"><br>Book | 5.0s / BP+5<br>2 Row PA/MA/PD/MD/SP +10% 10s | BP16 / 170s / 3.0s / 2 Row Heal 240p<br>10% Revive
+<img src="https://caelum.s-ul.eu/K1su7ZFm.gif" width="30"><br>Dagger | 4.0s / BP+3 / 3x50p<br>Against weakness element,<br>cut next auto reload by 0.5s | BP15 / 150s<br>Self Dodge 2 60s, Self PA +20% 60s
 <img src="https://caelum.s-ul.eu/PWHtYVMH.gif" width="30"><br>Bow | 4.5s / BP+4 / 150p<br>25% to dispel 1 debuff | BP16 / 150s / 400p<br>Weakness 2 30s against weakness element
 
 ### Disclaimers
