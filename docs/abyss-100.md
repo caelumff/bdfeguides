@@ -48,7 +48,7 @@
 
 
 # Sealed Chaos
-![Boss](https://caelum.s-ul.eu/bEpkJzvh.jpg)
+![Boss](../abyss/abyss100_sealedchaos.jpg)
 * Main Body: Non-Elemental/Humanoid
 * HP: 2,000,000
 * Stones: Fire/Inorganic, Water/Inorganic, Earth/Inorganic, Wind/Inorganic
